@@ -1,0 +1,12 @@
+# Article Generator Requirements
+# Install with: pip install -r requirements.txt
+
+# OpenAI for LLM API calls (used by call_llm.py)
+openai>=1.0.0
+
+# HTTP requests (used by call_llm.py)
+requests>=2.31.0
+
+# Optional: Add these if you want additional features
+# python-dotenv>=1.0.0     # For .env file support
+
