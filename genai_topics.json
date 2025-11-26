@@ -1,0 +1,96 @@
+{
+    "topics": [
+      {
+        "name": "Transformer architecture",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Self-attention mechanism",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Tokenization and subword encoding",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Embeddings and vector representations",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Supervised fine-tuning (SFT)",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Parameter-efficient fine-tuning (PEFT)",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Reinforcement Learning from Human Feedback (RLHF)",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "LoRA and QLoRA",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Retrieval-Augmented Generation (RAG)",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Vector databases and semantic search",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Tool use / function calling in LLMs",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "LLM agents and multi-agent systems",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Code generation and reasoning with LLMs",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Model evaluation and benchmarking for LLMs",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Diffusion Models",
+        "tags": ["Generative AI", "LLM", "NLP"],
+        "is_premium": false,
+        "views": 10200
+      }
+    ]
+  }
+  
+  

@@ -47,8 +47,21 @@ Tags: {', '.join(tags)}
 Please provide a JSON response with the following fields:
 
 1. "title": An engaging, SEO-friendly title (50-60 characters)
-2. "content": Comprehensive article which will describe the concept in very easy language along with mathematical equations to explain everything. This should be a technical document.
-The content should be around (1500-2500 words) formatted in HTML with:
+2. "content": Comprehensive article which will describe the concept in very easy language along with mathematical equations to explain everything. 
+    This should be a technical document.
+    The document structure should be as follows (Give a proper heading to each section, but use the following sections for your understanding):
+    - Introduction
+    - After this chapter, what user will be able to do? (This should be a very short section)
+    - Problem framing
+    - Intuition
+    - Assumptions of this method (if any)
+    - Mathematical equations
+    - small code implementation
+    - Evaluation
+    - Pitfalls and Best Practices
+    - Conclusion
+*The content should be around (1500-2500 words)*
+The content should be formatted in HTML with:
    - Multiple sections with <h2> and <h3> headings
    - Paragraphs in <p> tags
    - Code examples in <pre><code> blocks if relevant
@@ -56,13 +69,12 @@ The content should be around (1500-2500 words) formatted in HTML with:
    - Strong emphasis with <strong> tags for key concepts
    - Make it technical but accessible
    - Write mathematical equations properly which can be rendered properly in the article.
-   - add main main items. Don't make it a very big article. Make it concise and to the point.
    
 3. "excerpt": A compelling 100-150 character preview that makes readers want to click
 
 4. "summary": Exactly ~100 words explaining the core concept. Should be:
    - Self-contained and comprehensive
-   - Not too technical but should be able to explain the concept in a way that is easy to understand
+   - Not too technical but should be able to explain the concept in a way that is easy to understand using one practical life example.
    - Cover key points and applications
    - Standalone explanation that doesn't require reading the full article
    - The intent of this summary is to make user understand the concept in a very short and concise way and very quickly.

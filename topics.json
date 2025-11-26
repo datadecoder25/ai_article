@@ -1,64 +1,10 @@
 {
   "topics": [
     {
-      "name": "Bayesian Statistics (Prior, likelihood, posterior)",
-      "tags": ["Statistics", "Bayesian Statistics"],
+      "name": "Agent–environment interaction and Markov Decision Processes (MDPs)",
+      "tags": ["Reinforcement Learning"],
       "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Bayesian Statistics (Conjugate priors)",
-      "tags": ["Statistics", "Bayesian Statistics"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Bayesian Statistics (Posterior predictive distributions)",
-      "tags": ["Statistics", "Bayesian Statistics"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Bayesian Statistics (MAP vs MLE)",
-      "tags": ["Statistics", "Bayesian Statistics"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Wilcoxon signed-rank test",
-      "tags": ["Statistics"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Mann–Whitney U test",
-      "tags": ["Statistics", "Nonparametric Tests"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Bootstrap",
-      "tags": ["Statistics", "Nonparametric Tests"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Kruskal–Wallis test",
-      "tags": ["Statistics", "Nonparametric Tests"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Kernel density estimation (KDE)",
-      "tags": ["Statistics", "Nonparametric Tests"],
-      "is_premium": false,
-      "views": 10200
-    },
-    {
-      "name": "Bayesian Statistics (MAP vs MLE)",
-      "tags": ["Statistics", "Bayesian Statistics"],
-      "is_premium": false,
-      "views": 10200
+      "views": 15420
     }
   ]
 }

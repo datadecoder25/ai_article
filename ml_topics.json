@@ -1,0 +1,96 @@
+{
+    "topics": [
+      {
+        "name": "Bias Variance Tradeoff",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Supervised vs Unsupervised Learning",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Logistic Regression",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "ROC AUC",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Precision and Recall",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Lasso Regression",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Ridge Regression",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Bagging and Boosting",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Decision Trees",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Splitting Criteria in Decision Trees",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Random Forest",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Principal Component Analysis (PCA)",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "Spline",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "SVM",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      },
+      {
+        "name": "XGBoost",
+        "tags": ["Machine Learning"],
+        "is_premium": false,
+        "views": 10200
+      }
+    ]
+  }
+  
+  

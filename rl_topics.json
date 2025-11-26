@@ -1,0 +1,84 @@
+{
+    "topics": [
+      {
+        "name": "Agent–environment interaction and Markov Decision Processes (MDPs)",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 15420
+      },
+      {
+        "name": "States, actions, rewards, return, discount factor (γ) in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 8950
+      },
+      {
+        "name": "Policies (stochastic / deterministic) in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 12300
+      },
+      {
+        "name": "Value functions and Bellman equations in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 9200
+      },
+      {
+        "name": "Monte Carlo prediction and control in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 11500
+      },
+      {
+        "name": "SARSA and Q-learning in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 17800
+      },
+      {
+        "name": "On-policy vs off-policy learning in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 6900
+      },
+      {
+        "name": "Exploration–exploitation trade-off in RL and ε-greedy policies and UCB in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 13400
+      },
+      {
+        "name": "Multi-armed bandits (stochastic, contextual)",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 5600
+      },
+      {
+        "name": "TRPO, PPO in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 14200
+      },
+      {
+        "name": "Policy Gradient method and REINFORCE algorithm in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 10700
+      },
+      {
+        "name": "Model-based vs model-free approach in RL",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 8300
+      },
+      {
+        "name": "Deep Q-Networks (DQN)",
+        "tags": ["Reinforcement Learning"],
+        "is_premium": false,
+        "views": 19500
+      }
+    ]
+  }
+  
+  
